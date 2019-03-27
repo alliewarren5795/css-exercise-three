@@ -61,7 +61,7 @@ nav {
       width: 100%
     }
 
-  a:hover {
+  .location:hover {
     background-color: #404040;
 
 }
